@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Quester
+## Notes: Additional features for questing
+## Author: Valkrr
+## Version: v0.0.1
+## SavedVariables: QuesterDB
+## Dependency: 
+
+Quester_pre.lua
+Quester.lua
+
