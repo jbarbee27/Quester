@@ -7,5 +7,17 @@
 ## Dependency: 
 
 Quester_pre.lua
+
+
+## Stolen database from QuestHelper that was updated for Ascension
+static.lua
+static_1.lua
+static_2.lua
+static_enUS.lua
+static_enUS_1.lua
+static_enUS_2.lua
+
+db_get.lua
+
 Quester.lua
 
